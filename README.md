@@ -19,9 +19,9 @@ La contraseña debe cumplir los siguientes requisitos:
 
 Visualización en tiempo real del cumplimiento de cada requisito:
 
-Requisitos cumplidos se muestran en verde.
-
-Requisitos pendientes se muestran en rojo.
+    Requisitos cumplidos se muestran en verde.
+    
+    Requisitos pendientes se muestran en rojo.
 
 El botón de login solo se habilita cuando todos los campos son válidos.
 
