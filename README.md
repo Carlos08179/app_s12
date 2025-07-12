@@ -40,6 +40,8 @@ View Binding
 
 Material Design
 
+""CAPTURAS DE PANTALLA DE LA APP DENTRO DEL REPOSITORIO"": https://github.com/Carlos08179/app_s12/blob/main/CAPTURAS%20DE%20PANTALLA%20DE%20LA%20APP%20FUNCIONAL_S12.pdf
+
 🗂️ Estructura
 MainActivity.kt: interfaz de usuario que observa los datos y muestra el formulario.
 
