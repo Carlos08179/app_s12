@@ -1,4 +1,5 @@
 📱 LoginApp – Validación en tiempo real con ViewModel y LiveData
+
 LoginApp es una aplicación Android desarrollada en Kotlin que implementa un formulario de inicio de sesión con validación de datos en tiempo real, utilizando los componentes ViewModel y LiveData de la arquitectura MVVM recomendada por Google.
 
 🧠 Características principales
